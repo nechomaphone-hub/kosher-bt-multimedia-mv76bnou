@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">דיבורית ומולטימדיה כשרה</string>
+    <string name="tab_dialer">חיוג</string>
+    <string name="tab_contacts">אנשי קשר</string>
+    <string name="tab_calls">היסטוריה</string>
+    <string name="tab_bt">Bluetooth</string>
+    <string name="tab_settings">הגדרות</string>
+    
+    <string name="call_button">חיוג</string>
+    <string name="bt_connect_btn">חבר למכשיר כשר</string>
+    <string name="bt_disconnect_btn">נתק Bluetooth</string>
+    <string name="bt_status_disconnected">מנותק - לחץ לחיבור</string>
+    <string name="bt_status_connected">מחובר בהצלחה לדיבורית / טלפון כשר</string>
+    
+    <string name="permissions_title">הרשעות נדרשות</string>
+    <string name="permissions_desc">האפליקציה דורשת הרשעות גישה לBluetooth, אנשי קשר וניהול שיחות כדי לתפקד כדיבורית מלאה.</string>
+    <string name="grant_permissions">אשר הרשעות</string>
+    
+    <string name="instructions_title">מדריך למשתמש (טלפון כשר):</string>
+    <string name="instructions_content">1. הפעל Bluetooth בסמארטפון ובטלפון הכשר.\n2. בצע הצמדה (Pairing) ראשונית בהגדרות הBluetooth של המכשיר.\n3. היכנס ללשונית Bluetooth באפליקציה זו ובחר את המכשיר.\n4. האפליקציה תתחבר אוטומטית ותאפשר ניהול שיחות מלא ללא אינטרנט!</string>
+</resources>
